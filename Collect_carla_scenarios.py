@@ -27,7 +27,7 @@ SEED = 42
 BASE = 'dataset'
 
 IMG_W, IMG_H, FOV = 1242, 375, 90.0
-FIXED_DT = 0.05              # 20 FPS simulation
+FIXED_DT = 0.05              # 20 FPS simulation....
 SAVE_EVERY = 2               # save every 2nd tick -> 10 Hz
 MAX_RANGE = 50.0             # metres, matches LiDAR range
 MIN_BOX_H = 10               # px, skip tiny 2D boxes
