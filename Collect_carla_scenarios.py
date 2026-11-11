@@ -573,4 +573,4 @@ finally:
     settings.fixed_delta_seconds = None
     world.apply_settings(settings)
     tm.set_synchronous_mode(False)
-    print('Simulator restored to normal mode.')
+    print('Simulator restored to normal mode')
